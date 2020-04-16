@@ -1,5 +1,6 @@
 import sys
 
+
 def procentile(list, P):
     P = P / 100
     index = (P * (len(list) - 1))
