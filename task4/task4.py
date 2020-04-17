@@ -1,5 +1,4 @@
 import sys
-from time import strptime
 
 
 def convert_to_minute(time):
